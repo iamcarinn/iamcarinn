@@ -21,4 +21,4 @@
 ## ⚫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img align='right' src="https://media.giphy.com/media/3Xx3u4AnB4MT7E7UUx/giphy.gif" width="150"></img>
+<img align='right' src="https://media.giphy.com/media/cYeZfZwTkvR3W3kl01/giphy.gif" width="150"></img>
