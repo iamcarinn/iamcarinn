@@ -1,9 +1,12 @@
-# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='15%'></img>
+# Hi! My name is Carina! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='15%'></img>
 
-<!-- # Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
+<!-- # Hi! My name is Carina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 ## ⚫️ About Me:
-🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
+👩🏻‍💻 I’m currently working on my pet projects<br>
+🌱 I’m currently learning JavaScript and C
+💭 I want to become a full stack developer<br>
+👩🏻‍💻 I study at School 21<br>
 
 <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
