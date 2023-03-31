@@ -5,7 +5,7 @@
 ## ⚫️ About Me:
 🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
 
-<img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="400"></img>
+<img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
