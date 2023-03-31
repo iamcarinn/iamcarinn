@@ -1,5 +1,4 @@
-<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif'>
-
+<img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif' width='200'>
 
 # Привет! Меня зовут Карина! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
@@ -21,3 +20,6 @@
 
 ## ⚫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif'>
