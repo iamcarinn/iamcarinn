@@ -1,4 +1,6 @@
 # Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='7%'></img>
+# Привет! Меня зовут Карина! <img src="https://giphy.com/gifs/animation-black-and-white-3o6Ztm0QIUajeHRYRO/giphy.gif" width='7%'></img>
+
 <!-- # Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 ## ⚫️ About Me:
