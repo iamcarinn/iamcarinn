@@ -1,8 +1,6 @@
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif' width='200'>
 
-# Привет! Меня зовут Карина! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="5%">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ## ⚫️ About Me:
 🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
