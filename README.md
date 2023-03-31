@@ -20,3 +20,5 @@
 
 ## ⚫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img align='right' src='https://giphy.com/gifs/spring-bloom-daisies-cYeZfZwTkvR3W3kl01' width='300'>
