@@ -4,7 +4,7 @@
 
 ## ⚫️ About Me:
 👩🏻‍💻 I’m currently working on my pet projects<br>
-🌱 I’m currently learning JavaScript and C
+🌱 I’m currently learning JavaScript and C<br>
 💭 I want to become a full stack developer<br>
 👩🏻‍💻 I study at School 21<br>
 
