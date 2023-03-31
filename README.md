@@ -1,5 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+<img align='right' src='[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQyYjIwYzBmYTQzMzQ3M2RlYjc1YTljMjlkYmI0OWJlOGUwYjk0MCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)' width='200'>
 # Привет! Меня зовут Карина! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ## ⚫️ About Me:
