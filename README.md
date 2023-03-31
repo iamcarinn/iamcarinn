@@ -1,6 +1,7 @@
 <!-- <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif' width='150'> -->
 
-# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'>
+# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='5%'></img>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 ## ⚫️ About Me:
 🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
@@ -18,7 +19,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 </p>
 
-<!-- <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="300"></img> -->
+<img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="300"></img>
 <img align='right' src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width="300"></img>
 
 ## ⚫️ GitHub Stats:
