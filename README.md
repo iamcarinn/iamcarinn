@@ -22,4 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!-- <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif'> -->
+<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif'>
