@@ -6,5 +6,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-      <details><summary>Half year calendar</summary><img src="https://github.com/iamcarinn/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
+<img src="https://github.com/iamcarinn/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
+<img width="900" height="1" alt="">
