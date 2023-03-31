@@ -1,3 +1,5 @@
+<img src='[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)'>
+
 <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif' width='200'>
 
 # Привет! Меня зовут Карина! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
