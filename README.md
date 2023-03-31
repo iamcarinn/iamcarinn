@@ -18,7 +18,8 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="300"></img>
+<!-- <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="300"></img> -->
+<img align='right' src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width="300"></img>
 
 ## ⚫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
