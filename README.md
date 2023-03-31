@@ -1,6 +1,5 @@
-# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='8%'></img>
-# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'>
-
+# Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='7%'></img>
+<!-- # Привет! Меня зовут Карина! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 ## ⚫️ About Me:
 🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
