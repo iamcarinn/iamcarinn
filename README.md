@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='10%'></img> -->
 <!-- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> Привет! Меня зовут Карина! -->
-# <img src="https://giphy.com/gifs/secret-disappear-here-i-am-iIAZe3cJp27DIK2GM3/giphy.gif" width='5%'> Привет! Меня зовут Карина!
+# <img src="https://media.giphy.com/media/iIAZe3cJp27DIK2GM3/giphy.gif" width='5%'> Привет! Меня зовут Карина!
 
 
 ## ⚫️ About Me:
