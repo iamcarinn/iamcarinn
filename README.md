@@ -1,15 +1,11 @@
-<!-- <img align='right' src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif' width='150'> -->
-<img src='https://media.giphy.com/media/3o7TKCSeiT7CDbvUGs/giphy.gif' width='max'>
-
-
 # <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='10%'></img>Привет! Меня зовут Карина!
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 ## ⚫️ About Me:
 🤓 Изучаю JavaScript и С<br>💭 Хочу стать Full Stack разработчиком<br>👩🏻‍💻 Учусь в Школе 21
 
-<img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="400"></img>
-
+<!-- <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="400"></img> -->
+<img align='right' src="https://giphy.com/gifs/gola-andregola-suadinho-SiEF80pqzJHhM3dOw0/giphy.gif" width="400"></img>
 ## ⚫️ Tech Stack:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
@@ -22,8 +18,6 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 </p>
-
-<!-- <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="400"></img> -->
 
 ## ⚫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
