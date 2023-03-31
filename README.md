@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img align='right' src='[https://giphy.com/embed/h408T6Y5GfmXBKW62l](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQyYjIwYzBmYTQzMzQ3M2RlYjc1YTljMjlkYmI0OWJlOGUwYjk0MCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)' width='200'>
+<img src='[https://giphy.com/embed/h408T6Y5GfmXBKW62l](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQyYjIwYzBmYTQzMzQ3M2RlYjc1YTljMjlkYmI0OWJlOGUwYjk0MCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif)'>
