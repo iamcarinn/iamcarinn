@@ -4,7 +4,9 @@
 
 
 ## ⚫️ About Me:
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+of+School+21+)](https://git.io/typing-svg)
+
 👩🏻‍💻 I’m currently working on my pet projects<br>
 🌱 I’m currently learning JavaScript and C<br>
 💭 I want to become a full stack developer<br>
