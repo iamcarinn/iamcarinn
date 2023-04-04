@@ -29,3 +29,5 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+of+School+21+)](https://git.io/typing-svg)
+
