@@ -6,9 +6,9 @@
 ## ⚫️ About Me:
 
 👩🏻‍💻 I’m currently working on my pet projects<br>
-🌱 I’m currently learning JavaScript and C<br>
+🌱 I’m currently learning C, C++ and JavaScript<br>
 💭 I want to become a full stack developer<br>
-👩🏻‍💻 I study at School 21<br>
+👩🏻‍💻 I study at "School 21" (programming school from "Sber")<br>
 
 <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
