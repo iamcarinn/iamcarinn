@@ -9,6 +9,18 @@
 🌱 I’m currently learning C, C++ and JavaScript<br>
 💭 I want to become a full stack developer<br>
 👩🏻‍💻 I study at "School 21" (programming school from "Sber")<br>
+🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
+🧑🏻‍🎓 Bachelor's degree in Power Engineering (Steam and Gas turbines)
+
+#### 📫 How to reach me :
+
+<!--- src:https://icons8.com/ ---->
+
+<div style="margin-bottom: 5px">
+ <img align="top" src="imgs/telegram-app.svg"> 
+  <a href="https://t.me/iamcarinn">@iamcarinn</a>
+</div>
+
 
 <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
