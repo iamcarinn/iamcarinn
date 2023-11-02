@@ -21,6 +21,14 @@
   <a href="https://t.me/iamcarinn">@iamcarinn</a>
 </div>
 
+<p></p>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px">
+ <img align="top" src="imgs/mail-25.svg"> 
+  <a href="mailto:iamcarinn1@gmail.com">iamcarinn1@gmail.com</a>
+</div>
+
+<p></p>
 
 <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
