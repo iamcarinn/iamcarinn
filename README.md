@@ -45,6 +45,13 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 </p>
 
+
+
+
+
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Daria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ## ⚫️ GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarinn&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
