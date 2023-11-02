@@ -12,7 +12,7 @@
 🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
 🧑🏻‍🎓 Bachelor's degree in Power Engineering (Steam and Gas turbines)
 
-#### 📫 How to reach me :
+#### 📫 How to contact me :
 
 <!--- src:https://icons8.com/ ---->
 
