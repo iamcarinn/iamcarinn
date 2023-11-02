@@ -6,7 +6,7 @@
 ## ⚫️ About Me:
 
 👩🏻‍💻 I’m currently working on my pet projects<br>
-🌱 I’m currently learning C, C++ and JavaScript<br>
+🌱 I’m currently learning C, C++, JavaScript, SQL<br>
 💭 I want to become a full stack developer<br>
 👩🏻‍💻 I study at "School 21" (programming school from "Sber")<br>
 🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
