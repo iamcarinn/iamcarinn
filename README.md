@@ -8,9 +8,9 @@
 👩🏻‍💻 I’m currently working on my pet projects<br>
 🌱 I’m currently learning C, C++, GO, JavaScript and SQL<br>
 💭 I want to become a full stack developer<br>
-👩🏻‍💻 I study at "School 21" (programming school from "Sber")<br>
+👩🏻‍💻 I study aat the [École 42](https://21-school.ru/), Moscow campus.<br>
 🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
-🧑🏻‍🎓 Bachelor's degree in Power Engineering (Steam and Gas turbines)
+🧑🏻‍🎓 Bachelor's degree in [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx) (Steam and Gas turbines)
 
 #### 📫 How to contact me :
 
