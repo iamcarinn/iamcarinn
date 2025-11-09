@@ -1,16 +1,17 @@
-# Hi! My name is Carina! <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='15%'></img>
+# Hi! My name is Carina!
+<!-- <img src="https://media.giphy.com/media/l3vRnHjemLtYF3n3O/giphy.gif" width='15%'></img> -->
 
 <!-- # Hi! My name is Carina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width='5%'> -->
 
 
 ## ⚫️ About Me:
 
-👩🏻‍💻 I’m currently working on my pet projects<br>
+👩🏻‍💻 I’m currently working on my projects<br>
 🌱 I’m using Go, but also C, C++<br>
-💭 I want to become a full stack developer<br>
+💭 I want to become a backend developer<br>
 👩🏻‍💻 I graduated from [School 21](https://21-school.ru/), Moscow campus.<br>
 🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
-🧑🏻‍🎓 Bachelor's degree in [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx) (Steam and Gas turbines)
+🧑🏻‍🎓 Bachelor's degree in [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx)
 
 #### 📫 How to contact me :
 
@@ -33,6 +34,7 @@
 <img align='right' src="https://media.giphy.com/media/l2Sq8BNJpTcnTLyIU/giphy.gif" width="350"></img>
 ## ⚫️ Tech Stack:
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/golang/golang-ar21.svg)" alt="go" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
