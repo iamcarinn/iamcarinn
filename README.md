@@ -8,8 +8,8 @@
 
 👩🏻‍💻 I’m currently working on my projects<br>
 🌱 I’m using Go, but also C, C++<br>
-💭 I want to become a backend developer<br>
-👩🏻‍💻 I graduated from [School 21](https://21-school.ru/), Moscow campus.<br>
+💭 I want to become a senior backend developer<br>
+👩🏻‍💻 I graduated from [School 21](https://21-school.ru/), Moscow campus<br>
 🎯 I'm striving to deepen my knowledge in the field of computer science, programming and algorithmic problem solving<br>
 🧑🏻‍🎓 Bachelor's degree in [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx)
 
